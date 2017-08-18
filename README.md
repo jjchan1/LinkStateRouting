@@ -8,6 +8,8 @@ How to run (MAC OS):
 
 1b) Any adjustments to the update interval, max payload, or timeout should be done in the "config" file
 
+
+
 Commands: given in the form of "COMMAND [args]"
 
 SENDMSG [node] [message]
