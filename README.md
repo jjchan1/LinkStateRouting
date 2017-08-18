@@ -3,7 +3,9 @@
 
 How to run (MAC OS):
 1) In terminal, open project folder and type: ruby controller.rb nodes config
+
 1a) Any adjustments to nodes or their ports should be done in the "nodes" file
+
 1b) Any adjustments to the update interval, max payload, or timeout should be done in the "config" file
 
 Commands: given in the form of "COMMAND [args]"
